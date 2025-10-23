@@ -11,7 +11,7 @@ namespace ConsoleApp1
         private string marca;
         private string modello;
         private string colore;
-        public Veicol(string marca, string modello, string colore)
+        public Veicolo(string marca, string modello, string colore)
         {
             this.marca = marca;
             this.modello = modello;
